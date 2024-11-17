@@ -1,1 +1,1 @@
-print(hi my name is iron man)
+print( name is iron man)
