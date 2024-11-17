@@ -1,2 +1,2 @@
-sets={10,20,30,40,50,60}
+sets={hi my name is iron man }
 print(sets)
