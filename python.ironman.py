@@ -1,1 +1,3 @@
-print( name is iron man)
+a=10
+b=20
+print(a)
